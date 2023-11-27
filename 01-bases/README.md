@@ -1,8 +1,7 @@
-# 01 Bases de node typescript.
+# 02 Bases de Node
 
-Correr en dev
-``` 
-    npm run dev 
+
+Correr en Dev
 ```
-
-
+npm run dev
+```
