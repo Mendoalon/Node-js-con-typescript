@@ -6,6 +6,7 @@ export class UpdateTodoDto {
         public readonly completedAt?: Date,
     ) { }
 
+
     get values() {
         const returnObj: { [key: string]: any } = {};
 
@@ -37,3 +38,4 @@ export class UpdateTodoDto {
 
 
 }
+

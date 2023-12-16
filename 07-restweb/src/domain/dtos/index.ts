@@ -1,2 +1,2 @@
 export * from './todos/create-todo.dto';
-export * from './todos/update-todo.dot';
+export * from './todos/update-todo.dto';
